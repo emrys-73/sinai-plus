@@ -9,7 +9,7 @@
     let showAlert = false;
     let alertMessage = "";
 
-    let next_house_number = 3;
+    let next_house_number = 4;
 
 
     const houses = [
