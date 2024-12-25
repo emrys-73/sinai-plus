@@ -9,7 +9,7 @@
     let showAlert = false;
     let alertMessage = "";
 
-    let next_house_number = 3;
+    let next_house_number = 4;
 
 
     const houses = [
@@ -116,17 +116,6 @@
             id: generateUUID(),
             name: "Schleienweg 5, 84174 Eching",
             url: "https://www.google.com/maps/place/Schleienweg+5,+84174+Eching/@48.4964251,12.0344574,17z/data=!3m1!4b1!4m6!3m5!1s0x479e24a4228b5fe3:0x1cdf10d9aca04af1!8m2!3d48.4964251!4d12.0370377!16s%2Fg%2F11tg0qzccp?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
-            active: true,
-            isStart: true,
-            isEnd: false,
-            visited: false,
-            current: false,
-            time_to_next: 25,
-        },
-        {
-            id: generateUUID(),
-            name: "Hauptstraße 21, 84172 Buch am Erlbach",
-            url: "https://www.google.com/maps/place/Hauptstra%C3%9Fe+21,+84172+Buch+am+Erlbach/@48.4443384,12.0321103,17z/data=!3m1!4b1!4m6!3m5!1s0x479e22fb4c02c18f:0x5945e37388455343!8m2!3d48.4443385!4d12.0369758!16s%2Fg%2F11j0k5d3dm?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
             active: true,
             isStart: true,
             isEnd: false,
