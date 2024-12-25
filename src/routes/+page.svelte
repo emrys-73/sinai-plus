@@ -9,7 +9,7 @@
     let showAlert = false;
     let alertMessage = "";
 
-    let next_house_number = 6;
+    let next_house_number = 7;
 
 
     const houses = [
@@ -158,7 +158,7 @@
         },
         {
             id: generateUUID(),
-            name: "Eichenstraße 8, 84174 Eching",
+            name: "Endboss - Eichenstraße 8, 84174 Eching",
             url: "https://www.google.com/maps/place/Eichenstra%C3%9Fe+8,+84174+Eching/@48.5010033,12.064321,17z/data=!3m1!4b1!4m6!3m5!1s0x479e248ed02ed037:0xe91df8d7435303ac!8m2!3d48.5010033!4d12.0669013!16s%2Fg%2F11c24kr4w0?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
             active: true,
             isStart: true,
