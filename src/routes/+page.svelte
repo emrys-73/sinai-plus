@@ -147,7 +147,7 @@
         },
         {
             id: generateUUID(),
-            name: "Hauptstraße 10, 84174 Eching Viecht",
+            name: "Hauptstraße 10, 84174 Eching Viecht und danach Endboss Eichenstraße 8",
             url: "https://www.google.com/maps/place/Hauptstra%C3%9Fe+10,+84174+Eching/@48.4789413,12.0032659,12.08z/data=!4m6!3m5!1s0x479e248fbd29b853:0x1fbd923d893b829c!8m2!3d48.4996869!4d12.0628555!16s%2Fg%2F11c2dnln95?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D",
             active: true,
             isStart: true,
